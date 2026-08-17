@@ -18,7 +18,12 @@ Atualmente, estou focado principalmente em **Python, algoritmos, estruturas de d
 
 Gosto de aprender colocando o conhecimento em prática, criando projetos e resolvendo problemas através da programação.
 
-<img src="https://github-readme-stats-acme-262a.vercel.app/api?username=Brunoo7" alt="GitHub Stats">
+<div align="center">
+  <a href="https://github.com/Brunoo7">
+    <img height="180em" src="https://github-readme-stats-acme-262a.vercel.app/api/top-langs?username=Brunoo7&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais utilizadas"/>
+    <img height="180em" src="https://github-readme-stats-acme-262a.vercel.app/api?username=Brunoo7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
+</div>
 
 ---
 
