@@ -93,8 +93,8 @@ Meu objetivo é continuar evoluindo como desenvolvedor, ganhar experiência prof
 
 ## Contato
 
-<a href="mailto:brunoolivera072@gmail.com">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoolivera072@gmail.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/Brunoo7">
   <img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
