@@ -1,22 +1,16 @@
 # Bruno Almeida
 
-Estudante de **Ciência da Computação** na FIAP
+Estudante de **Ciência da Computação** na FIAP, em busca de **estágio em Desenvolvimento de Software**.
 
-Interessado em **Desenvolvimento de Software, Backend e Inteligência Artificial**
-
-Atualmente estudando e desenvolvendo projetos com **Python**
-
-Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+Foco em **Python, backend e algoritmos**, com interesse em análise de dados e Inteligência Artificial.
 
 ---
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e estou construindo minha trajetória na área de tecnologia.
+Estou no 2º semestre de Ciência da Computação e construo minha trajetória aprendendo na prática: crio projetos, resolvo problemas com código e evoluo cada versão com o que aprendo.
 
-Atualmente, estou focado principalmente em **Python, algoritmos, estruturas de dados e desenvolvimento backend**, além de explorar áreas como Inteligência Artificial e análise de dados.
-
-Gosto de aprender colocando o conhecimento em prática, criando projetos e resolvendo problemas através da programação.
+Atualmente estudo **Orientação a Objetos em Python**, **algoritmos e estruturas de dados** e **banco de dados**.
 
 <div align="center">
   <a href="https://github.com/Brunoo7">
@@ -26,74 +20,60 @@ Gosto de aprender colocando o conhecimento em prática, criando projetos e resol
 
 ---
 
-## Tecnologias e conhecimentos
+## Tecnologias
 
 ### Linguagens
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 
-### Ferramentas e tecnologias
+### Ferramentas
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
 
 ---
 
-## Atualmente estudando
+## Projetos em destaque
 
-* Python e desenvolvimento Backend
-* Algoritmos e Estruturas de Dados
-* Análise e manipulação de dados
-* Inteligência Artificial
-* Linguagem C
-* Git e GitHub
-* Banco de dados
+### Inventra | Python
 
----
+Sistema de gestão de produtos e estoque com persistência de dados em JSON. Inclui cadastro, edição e remoção de produtos, busca por ID e nome, filtro por categoria e alerta de estoque baixo.
 
-## Projetos
+[Ver repositório](https://github.com/Brunoo7/Inventra)
 
-### ChargeGrid Intelligence
+### ChargeGrid Intelligence | C
 
-Projeto desenvolvido durante os desafios da FIAP, envolvendo tecnologia e inteligência aplicada ao gerenciamento de infraestrutura de carregamento de veículos elétricos.
+Sistema de gerenciamento de estação de recarga de veículos elétricos, evoluído de um simulador para o controle de múltiplas sessões. Usa structs, vetores, busca linear e Bubble Sort, com análise de complexidade (Big-O). Projeto em grupo desenvolvido na FIAP.
 
-### GS2026.1
+<!-- Adicione aqui o link do repositório: [Ver repositório](https://github.com/Brunoo7/NOME-DO-REPO) -->
 
-Projeto em C desenvolvido para monitoramento de condições de uma missão, acompanhando informações como:
+### Sistema Inteligente de Monitoramento Energético | C
 
-* Temperatura
-* Energia
-* Comunicação
+Sistema para monitoramento de uma missão espacial, com análise automática de temperatura, energia e comunicação, histórico de leituras e alertas para situações críticas.
 
-O sistema identifica situações anormais e apresenta alertas de acordo com os dados monitorados.
-
-### Estudos de Python
-
-Repositório com exercícios e projetos desenvolvidos durante meus estudos de Python, incluindo:
-
-* Listas e dicionários
-* Loops
-* Funções
-* Manipulação de dados
-* Estruturas de dados
-* Algoritmos
+<!-- Adicione aqui o link do repositório: [Ver repositório](https://github.com/Brunoo7/NOME-DO-REPO) -->
 
 ---
 
-## Objetivos
+## Outros projetos
 
-Meu objetivo é continuar evoluindo como desenvolvedor, ganhar experiência profissional na área de tecnologia e construir projetos cada vez mais completos.
+* [StockFlow](https://github.com/Brunoo7/StockFlow): sistema de estoque e vendas em Python (funções, estruturas de dados, tratamento de exceções e validação de entradas)
+* Estudos de Python: exercícios com listas, dicionários, funções e algoritmos
 
-> **"The best way to learn is to build."**
+---
+
+## Próximos passos
+
+* Projeto com **Orientação a Objetos**, **SQLite** e **testes automatizados**
+* **API REST** em Python (FastAPI ou Flask)
+* Evolução do jogo de batalha em turnos que estou criando
 
 ---
 
 ## Contato
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoolivera072@gmail.com" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://github.com/Brunoo7">
   <img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
----
