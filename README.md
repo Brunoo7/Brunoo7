@@ -34,30 +34,24 @@ Atualmente estudo **Orientação a Objetos em Python**, **algoritmos e estrutura
 
 ## Projetos em destaque
 
-### Inventra | Python
+### [Inventra](https://github.com/Brunoo7/Inventra) | Python
 
-Sistema de gestão de produtos e estoque com persistência de dados em JSON. Inclui cadastro, edição e remoção de produtos, busca por ID e nome, filtro por categoria e alerta de estoque baixo.
+Gerenciador de estoque via terminal, com Programação Orientada a Objetos e persistência de dados em JSON. Inclui cadastro, edição e exclusão de produtos, busca por ID e nome, filtro por categoria, alerta de estoque baixo e valor total do estoque.
 
-[Ver repositório](https://github.com/Brunoo7/Inventra)
+### [Sistema de Gerenciamento de Sessões de Recarga](https://github.com/Brunoo7/DSA_Sprint_03) | C
 
-### ChargeGrid Intelligence | C
+Projeto em grupo (FIAP) para gerenciar e analisar sessões de recarga de veículos elétricos. Usa struct, vetores, busca sequencial e ordenação por Bubble Sort, com análise de complexidade (Big-O).
 
-Sistema de gerenciamento de estação de recarga de veículos elétricos, evoluído de um simulador para o controle de múltiplas sessões. Usa structs, vetores, busca linear e Bubble Sort, com análise de complexidade (Big-O). Projeto em grupo desenvolvido na FIAP.
+### [Sistema Inteligente de Monitoramento Energético](https://github.com/Brunoo7/sistema_inteligente_de_monitoramento) | C
 
-<!-- Adicione aqui o link do repositório: [Ver repositório](https://github.com/Brunoo7/NOME-DO-REPO) -->
-
-### Sistema Inteligente de Monitoramento Energético | C
-
-Sistema para monitoramento de uma missão espacial, com análise automática de temperatura, energia e comunicação, histórico de leituras e alertas para situações críticas.
-
-<!-- Adicione aqui o link do repositório: [Ver repositório](https://github.com/Brunoo7/NOME-DO-REPO) -->
+Projeto em grupo (Global Solution, FIAP) que simula o monitoramento de uma missão espacial: analisa temperatura, energia, comunicação e geração solar, gera alertas, aciona respostas automáticas em situações críticas e guarda o histórico de leituras.
 
 ---
 
 ## Outros projetos
 
 * [StockFlow](https://github.com/Brunoo7/StockFlow): sistema de estoque e vendas em Python (funções, estruturas de dados, tratamento de exceções e validação de entradas)
-* Estudos de Python: exercícios com listas, dicionários, funções e algoritmos
+* [Exercícios](https://github.com/Brunoo7/exercicios): exercícios e estudos de Python
 
 ---
 
@@ -71,6 +65,9 @@ Sistema para monitoramento de uma missão espacial, com análise automática de 
 
 ## Contato
 
+<a href="https://www.linkedin.com/in/bruno-almeida-oliveira/" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoolivera072@gmail.com" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
